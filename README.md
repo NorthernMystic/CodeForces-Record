@@ -4,7 +4,7 @@
 
 Rating history:
 
-
+![alt text](https://github.com/NorthernMystic/CodeForces-Record/blob/master/Rating.png)
 
 
 
