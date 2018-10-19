@@ -2,6 +2,12 @@
 
 
 
+Rating history:
+
+
+
+
+
 ## 1. Contest List
 
 1. [The Lyft Level 5 Challenge 2018 Elimination Round](http://codeforces.com/lyft2018)
